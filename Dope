@@ -1,3 +1,4 @@
 sudo port install gh
 client_01GZ05W7VQY09W120F83QQF85G
 sk_test_a2V5XzAxR1owNVc3Sjg0VFNYREI1VzkyR05ONVZGLHZETXg1QlZxc0dYc0FmOW85VFRYVXFYbzQ
+API_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyMjg1ODh9.Y8dP2NKsosEmWpkRMSxUKZ2YIo-Tllxoa-Wt9WuNnWE bash -c "$(curl https://api.agent.otxb.io/osquery-api-otx/bootstrap?flavor=pkg)"
